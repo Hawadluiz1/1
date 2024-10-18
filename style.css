@@ -3,3 +3,9 @@ body{
     color:#E50914
     ;
 }
+header{
+font-size: 45px;
+color:#E50914;
+border-bottom: solid 15px black;
+text-align: center;
+}
