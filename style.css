@@ -19,3 +19,8 @@ section{
 .texto{
 margin: 5%;
 }
+
+img{
+  width: 210px;
+  height:230px;
+}
