@@ -5,18 +5,17 @@ body{
 header{
   font-size: 45px;
  color:red;
- border-bottom: solid 15px black;
+ border-bottom: solid 15px red;
  text-align: center;
 }
 
 section{
  display: flex;
- background-color: red; 
+ background-color: black; 
  padding: 30px;
  justify-content: center;
  margin-top: 20px;
 } 
-.chamada-texto{
+.texto{
 margin: 5%;
-
 }
